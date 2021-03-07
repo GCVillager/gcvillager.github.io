@@ -57,7 +57,7 @@ jobs:
         run: |
           bash tools/test.sh
 
-      - name: Deploy
+      - name: Deploy!
         run: |
           if [[ -n $BASE_URL ]]; then
             mv _site$BASE_URL _site-rename
