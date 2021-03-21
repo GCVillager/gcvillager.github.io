@@ -20,7 +20,7 @@ title: GCVillager's Site                          # the main title
 tagline:  何处是吾乡？  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  This is GCVillager's own blog.
+  This is GCVillager's own blog.这是GCVillager的个人博客
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
