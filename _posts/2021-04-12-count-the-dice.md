@@ -1,8 +1,11 @@
 ---
-layout: post
+author: GCVillager
 title: 数 骰 子
-tag: [日记]
+tag: [随笔]
+date: 2021-04-12 21:20:00 +0800
+categories: [随笔]
 ---
+
 ## 前言  
 事情发生已经是几个星期以前了，但是我还是要讲讲。  
 某一天，我们因为某些需要，要注册两个新github账号。  
