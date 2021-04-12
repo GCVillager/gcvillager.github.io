@@ -17,7 +17,7 @@ timezone: Asia/Shanghai
 # --------------------------
 title: GCVillager's Site                          # the main title
 
-tagline:  何处是吾乡？  # it will display as the sub-title
+tagline:  尽挹西风，细斟北斗，万象为宾客。  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   This is GCVillager's own blog.这是GCVillager的个人博客
