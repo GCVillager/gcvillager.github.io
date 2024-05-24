@@ -48,6 +48,8 @@ tags: [随笔]     # TAG names should always be lowercase
 
 ![奖牌](/assets/images/2024-05-22-CCPC-journey/award.jpg)
 
+（也是成功点燃大海了）  
+
 ## 番外：消失的手机（和某人的马）
 回来的路上，Amber说把三人的报销凭证都给我，并建议塞手机后面。  
 我说，塞包里吧，反正我把包丢掉的概率不会比丢手机的概率高多少。  
